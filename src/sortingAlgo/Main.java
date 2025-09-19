@@ -1,3 +1,4 @@
+package sortingAlgo;
 public class Main {
     public static void main(String[] args){
         BubbleSort sorting = new BubbleSort();

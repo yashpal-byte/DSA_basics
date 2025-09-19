@@ -1,3 +1,4 @@
+package sortingAlgo;
 public class SelectionSort {
 
     public static void selectionsort(int[] arr){
